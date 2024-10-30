@@ -1,7 +1,8 @@
 **EaseReader**
+
 EaseReader transforms PDF reading into a smooth, interactive experience. Powered by PyPDF, FAISS index store, and Google's LLM - Gemini.
 EaseReader allows you to seamlessly chat with your PDFs, ask questions, and dive straight into the content that matters most.
-Setup Instructions:
+**Setup Instructions:**
 Run the following commands in the project directory to set up EaseReader:
 ```
 # Clone the repository
@@ -21,3 +22,4 @@ pip install -r requirements.txt
 
 # 4. Run the Streamlit interface
 streamlit run app.py
+```
