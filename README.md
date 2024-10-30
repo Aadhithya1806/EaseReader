@@ -2,6 +2,7 @@
 
 EaseReader transforms PDF reading into a smooth, interactive experience. Powered by PyPDF, FAISS index store, and Google's LLM - Gemini.
 EaseReader allows you to seamlessly chat with your PDFs, ask questions, and dive straight into the content that matters most.
+
 **Setup Instructions:**
 Run the following commands in the project directory to set up EaseReader:
 ```
